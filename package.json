@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@types/node": "20.2.4",
+    "@types/node": "20.2.5",
     "@types/react": "18.2.7",
     "@types/react-dom": "18.2.4",
     "eslint": "8.41.0",
@@ -17,10 +17,11 @@
     "next": "13.4.4",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-icons": "^4.8.0",
+    "styled-components": "^5.3.10",
     "typescript": "5.0.4"
   },
   "devDependencies": {
-    "@types/styled-components": "^5.1.26",
-    "styled-components": "^5.3.10"
+    "@types/styled-components": "^5.1.26"
   }
 }
